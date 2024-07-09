@@ -4,7 +4,7 @@ The repository has three training scripts:
 *`train_enc.py` to train only the encoder
 *`train_dec.py` to train the full encoder-decoder network
 *`train_fine_tune.py` to fine-tune the fully trained model.
-Download the datasets and save them in the 'dataset' folder directly.
+Download the datasets and save them in the [](/dataset) folder directly.
 
 ```python
 import torch
